@@ -1,4 +1,4 @@
-# 🧠 NLP Preprocessing Demo
+# 🧠 NLP Preprocessing
 
 ## 📌 Overview
 This project demonstrates fundamental **Natural Language Processing (NLP)** techniques using Python and NLTK.  
